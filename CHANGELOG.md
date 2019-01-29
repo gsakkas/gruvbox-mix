@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "Gruvbox Mix Theme" extension will be documented here.
 
+## v1.0.1
+- Added screenshots and updated README
+
 ## v1.0.0
 - Updated CHANGELOG and published
 
